@@ -1,14 +1,3 @@
-/*
- * Emmanouil Stathopoulos
- * AM:2022201500155
- * dit15155@uop.gr
- * 
- * Konstantinos Ntatsis
- * AM:2022201500106
- * dit15106@uop.gr
- * 
- */
-
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
